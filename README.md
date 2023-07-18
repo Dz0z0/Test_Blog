@@ -1,2 +1,2 @@
 # Test_Blog
-First preview for a potentional blog webside.
+First preview for a potentional blog website.
